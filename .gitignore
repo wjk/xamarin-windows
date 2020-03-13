@@ -8,7 +8,6 @@ build/
 .nuget
 .vs/
 /buildtools/
-/external/mono/
 GitInfo.cache
 tests/TestResult*.xml
 /tmp/
